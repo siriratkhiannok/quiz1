@@ -1,0 +1,59 @@
+body {
+    margin: auto;
+}
+.p1{
+    background-color: blueviolet;
+    font-style: italic;
+    color: aliceblue;
+    font-size: 37px;
+    font-style: normal;
+    vertical-align: middle;
+    display: center;
+    text-align: center;
+}
+.Head_page{
+    display: flex;
+    align-items: flex-start;
+    width: 15%;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.Left_page{
+    background-color: orange;
+    border: double 2px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.Right_page{
+    flex-direction: column;
+    display: flex;
+    width: 15%;
+}
+.Bo{
+    background-color: salmon;
+    font-style: italic;
+    font-size: 30px;
+    font-style: normal;
+    width: 65%;
+    height: 100%;
+}
+.B{
+    display: flex;
+    align-items: flex-start;
+    height: 650px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+}
+.Footer{
+    background-color: blueviolet;
+    font-style: italic;
+    color: aliceblue;
+    font-size: 30px;
+    font-style: normal;
+    vertical-align: middle;
+    display: center;
+    text-align: center;
+}
